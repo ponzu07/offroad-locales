@@ -15,11 +15,11 @@ msgstr ""
 
 #: js/components/DragonpilotSettings/DragonpilotSettings.js:681
 msgid "(Use it at your own risk.)"
-msgstr "使用は自己責任です"
+msgstr "(自己責任でご使用ください)"
 
 #: js/components/DragonpilotSettings/DragonpilotSettings.js:684
 msgid "(e.g. damage to your car, controls not properly tuned etc.)"
-msgstr "例：車の損傷、コントロールが適切に調整されていないなど"
+msgstr "(例：車両の損傷、コントロールが適切に調整されていないなど)"
 
 #: js/components/Settings/Settings.js:560
 msgid "."
@@ -27,7 +27,7 @@ msgstr "."
 
 #: js/components/Home/Home.js:477
 msgid "1 year of storage"
-msgstr "1年間保存"
+msgstr "1年間の保存"
 
 #: js/components/DragonpilotSettings/DragonpilotSettings.js:289
 msgid "3rd Party Apps"
@@ -214,11 +214,11 @@ msgstr "車を制御するための信号が送られる前に、センサーに
 msgid "Begin Training"
 msgstr "トレーニング開始"
 
-#: js/components/DragonpilotSettings/DragonpilotSettings.js:1395
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1404
 msgid "Boost Audio Alert Volume (%)"
 msgstr "オーディオアラート音量ブースト (%)"
 
-#: js/components/DragonpilotSettings/DragonpilotSettings.js:1397
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1406
 msgid "Boost audio alert volume in percentage, set to -100 (%) if you would like to disable audio alert. Default is 0 (%)."
 msgstr "オーディオアラートを無効にしたい場合は -100 (%) に設定します。デフォルトは 0 (%) です。"
 
@@ -368,9 +368,9 @@ msgstr "オープンパイロットを解除"
 msgid "Display \"Turn Exceeds Steering Limit\" Alert"
 msgstr "\"Turn Exceeds Steering Limit\" を表示する"
 
-#: js/components/DragonpilotSettings/DragonpilotSettings.js:1263
-#~ msgid "Display Dev UI"
-#~ msgstr "開発者UIを表示"
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1386
+msgid "Display Dev UI"
+msgstr "開発者UIを表示"
 
 #: js/components/DragonpilotSettings/DragonpilotSettings.js:1182
 #~ msgid "Display Driver Monitor View"
@@ -400,7 +400,7 @@ msgstr "前方車両インジを表示"
 msgid "Display Max Speed"
 msgstr "最大速度を表示"
 
-#: js/components/DragonpilotSettings/DragonpilotSettings.js:1386
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1395
 msgid "Display Mini Dev UI"
 msgstr "ミニ開発者UIを表示"
 
@@ -660,8 +660,8 @@ msgid "Enable this if you wish to use gas on engaged."
 msgstr "エンゲージでアクセルを使用したい場合に有効にします。"
 
 #: js/components/DragonpilotSettings/DragonpilotSettings.js:1266
-#~ msgid "Enable this to display DevUI found in kegman/arne fork."
-#~ msgstr "これを有効にすると、kegman/arne forkで見つかったDevUIが表示されます。"
+msgid "Enable this to display DevUI found in kegman/arne fork."
+msgstr "これを有効にすると、kegman/arne forkで使用されているDevUIが表示されます。"
 
 #: js/components/DragonpilotSettings/DragonpilotSettings.js:1362
 msgid "Enable this to display Event / Steering Icon."
@@ -675,7 +675,7 @@ msgstr "フェイスアイコンを表示する場合に有効にします。"
 msgid "Enable this to display Max Speed."
 msgstr "これを有効にすると、最高速度が表示されます。"
 
-#: js/components/DragonpilotSettings/DragonpilotSettings.js:1389
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1398
 msgid "Enable this to display Mini Dev UI designed for dragonpilot."
 msgstr "これを有効にすると、dragonpilot用に設計されたMini Dev UIが表示されます。"
 

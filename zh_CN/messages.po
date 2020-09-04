@@ -214,11 +214,11 @@ msgstr "我们把这些传感器信息融合在一起，构建出前方道路状
 msgid "Begin Training"
 msgstr "开始教程"
 
-#: js/components/DragonpilotSettings/DragonpilotSettings.js:1395
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1404
 msgid "Boost Audio Alert Volume (%)"
 msgstr "扩大警示音量 (%)"
 
-#: js/components/DragonpilotSettings/DragonpilotSettings.js:1397
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1406
 msgid "Boost audio alert volume in percentage, set to -100 (%) if you would like to disable audio alert. Default is 0 (%)."
 msgstr "扩大或减少警示音量，设至 -100 (%) 可以完全关闭警示音。预设为 0 (%)。"
 
@@ -368,9 +368,9 @@ msgstr "退出 openpilot"
 msgid "Display \"Turn Exceeds Steering Limit\" Alert"
 msgstr "显示 \"弯道超过方向盘转向限制\" 警示讯息"
 
-#: js/components/DragonpilotSettings/DragonpilotSettings.js:1263
-#~ msgid "Display Dev UI"
-#~ msgstr "显示调校介面"
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1386
+msgid "Display Dev UI"
+msgstr "显示调校介面"
 
 #: js/components/DragonpilotSettings/DragonpilotSettings.js:1182
 #~ msgid "Display Driver Monitor View"
@@ -400,7 +400,7 @@ msgstr "显示前车的指示符号"
 msgid "Display Max Speed"
 msgstr "显示巡航速度"
 
-#: js/components/DragonpilotSettings/DragonpilotSettings.js:1386
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1395
 msgid "Display Mini Dev UI"
 msgstr "显示 dp 介面"
 
@@ -655,9 +655,9 @@ msgstr "启用这个选项后，您将可以让您的导航应用使用外部的
 msgid "Enable this if you wish to use gas on engaged."
 msgstr "启用这个选项后，当 dp 在控制时您仍然可以踩油门。"
 
-#: js/components/DragonpilotSettings/DragonpilotSettings.js:1266
-#~ msgid "Enable this to display DevUI found in kegman/arne fork."
-#~ msgstr "启用这个选项后，画面将会显示类似於 kegman / arne 的调校介面。"
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1389
+msgid "Enable this to display DevUI found in kegman/arne fork."
+msgstr "启用这个选项后，画面将会显示类似於 kegman / arne 的调校介面。"
 
 #: js/components/DragonpilotSettings/DragonpilotSettings.js:1362
 msgid "Enable this to display Event / Steering Icon."
@@ -671,7 +671,7 @@ msgstr "启用这个选项后，画面将会显示人脸图示。"
 msgid "Enable this to display Max Speed."
 msgstr "启用这个选项后，画面将会显示巡航速度。"
 
-#: js/components/DragonpilotSettings/DragonpilotSettings.js:1389
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1398
 msgid "Enable this to display Mini Dev UI designed for dragonpilot."
 msgstr "启用这个选项后，画面将会显示 dp 的调校介面。"
 

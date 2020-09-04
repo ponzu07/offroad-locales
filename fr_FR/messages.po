@@ -214,11 +214,11 @@ msgstr "Avant d'envoyer des signaux pour contrôler votre voiture, des capteurs 
 msgid "Begin Training"
 msgstr "Commencer l'entrainement"
 
-#: js/components/DragonpilotSettings/DragonpilotSettings.js:1395
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1404
 msgid "Boost Audio Alert Volume (%)"
 msgstr ""
 
-#: js/components/DragonpilotSettings/DragonpilotSettings.js:1397
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1406
 msgid "Boost audio alert volume in percentage, set to -100 (%) if you would like to disable audio alert. Default is 0 (%)."
 msgstr ""
 
@@ -368,9 +368,9 @@ msgstr "Désengager openpilot"
 msgid "Display \"Turn Exceeds Steering Limit\" Alert"
 msgstr ""
 
-#: js/components/DragonpilotSettings/DragonpilotSettings.js:1263
-#~ msgid "Display Dev UI"
-#~ msgstr ""
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1386
+msgid "Display Dev UI"
+msgstr ""
 
 #: js/components/DragonpilotSettings/DragonpilotSettings.js:1182
 #~ msgid "Display Driver Monitor View"
@@ -400,7 +400,7 @@ msgstr ""
 msgid "Display Max Speed"
 msgstr ""
 
-#: js/components/DragonpilotSettings/DragonpilotSettings.js:1386
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1395
 msgid "Display Mini Dev UI"
 msgstr ""
 
@@ -659,9 +659,9 @@ msgstr ""
 msgid "Enable this if you wish to use gas on engaged."
 msgstr ""
 
-#: js/components/DragonpilotSettings/DragonpilotSettings.js:1266
-#~ msgid "Enable this to display DevUI found in kegman/arne fork."
-#~ msgstr ""
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1389
+msgid "Enable this to display DevUI found in kegman/arne fork."
+msgstr ""
 
 #: js/components/DragonpilotSettings/DragonpilotSettings.js:1362
 msgid "Enable this to display Event / Steering Icon."
@@ -675,7 +675,7 @@ msgstr ""
 msgid "Enable this to display Max Speed."
 msgstr ""
 
-#: js/components/DragonpilotSettings/DragonpilotSettings.js:1389
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1398
 msgid "Enable this to display Mini Dev UI designed for dragonpilot."
 msgstr ""
 

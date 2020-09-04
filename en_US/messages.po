@@ -210,11 +210,11 @@ msgstr ""
 msgid "Begin Training"
 msgstr ""
 
-#: js/components/DragonpilotSettings/DragonpilotSettings.js:1395
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1404
 msgid "Boost Audio Alert Volume (%)"
 msgstr ""
 
-#: js/components/DragonpilotSettings/DragonpilotSettings.js:1397
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1406
 msgid "Boost audio alert volume in percentage, set to -100 (%) if you would like to disable audio alert. Default is 0 (%)."
 msgstr ""
 
@@ -364,6 +364,10 @@ msgstr ""
 msgid "Display \"Turn Exceeds Steering Limit\" Alert"
 msgstr ""
 
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1386
+msgid "Display Dev UI"
+msgstr ""
+
 #: js/components/DragonpilotSettings/DragonpilotSettings.js:1278
 msgid "Display Driving UI"
 msgstr ""
@@ -388,7 +392,7 @@ msgstr ""
 msgid "Display Max Speed"
 msgstr ""
 
-#: js/components/DragonpilotSettings/DragonpilotSettings.js:1386
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1395
 msgid "Display Mini Dev UI"
 msgstr ""
 
@@ -631,6 +635,10 @@ msgstr ""
 msgid "Enable this if you wish to use gas on engaged."
 msgstr ""
 
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1389
+msgid "Enable this to display DevUI found in kegman/arne fork."
+msgstr ""
+
 #: js/components/DragonpilotSettings/DragonpilotSettings.js:1362
 msgid "Enable this to display Event / Steering Icon."
 msgstr ""
@@ -643,7 +651,7 @@ msgstr ""
 msgid "Enable this to display Max Speed."
 msgstr ""
 
-#: js/components/DragonpilotSettings/DragonpilotSettings.js:1389
+#: js/components/DragonpilotSettings/DragonpilotSettings.js:1398
 msgid "Enable this to display Mini Dev UI designed for dragonpilot."
 msgstr ""
 
